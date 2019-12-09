@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SalinasHenrryExamen </string>
+    <string name="action_settings">Settings</string>
+    <string name="login_title">Ingresar</string>
+    <string name="username_title">Usuario : </string>
+    <string name="password_title">Contraseña</string>
+    <string name="password_confirm_title">Confirmar Contraseña</string>
+    <string name="button_login">Login</string>
+    <string name="login_error_message">Nombre de usuario o contraseña incorrecta.</string>
+    <string name="register_password_error">Las contraseñas no coinciden</string>
+    <string name="empty_field">Campo Vacio o invalido </string>
+    <string name="registro_title">Registro</string>
+    <string name="resumen_title">Resumen</string>
+    <string name="userLogin_title">Usuario Loggeado</string>
+    <string name="name_title">Nombre</string>
+    <string name="amount_initial_title">Monto Inicial</string>
+    <string name="pay_month_title">Pago Mensua</string>
+    <string name="button_save">Guardar</string>
+    <string name="button_exit">Salir</string>
+    <string name="save_message">“Elemento guardado con exito</string>
+    <string name="encuesta_title">Encuesta</string>
+    <string name="encuesta_P1">¿Por qué eligió este centro educativo?</string>
+    <string name="encuesta_P2">¿Qué deportes practica?</string>
+    <string name="encuesta_P3">Está interesado en aprender otro idioma aparte de inglés. </string>
+    <string name="encuesta_respuesta">su respuesta</string>
+    <string name="encuesta_SI">Si</string>
+    <string name="encuesta_NO">No</string>
+    <string name="encuesta_Soccer">Futlboll</string>
+    <string name="encuesta_Bike">Bicicleta</string>
+    <string name="encuesta_Walk">Caminar</string>
+    <string name="next">siguiente</string>
+
+
+
+
+
+
+</resources>
